@@ -1,4 +1,4 @@
-# 지파두 ReadMe
+# <img width = "5%" src = "https://github.com/APPSCHOOL3-iOS/final-zipadoo/assets/102401977/6785967f-2630-4cd4-95ab-634833cd2d51"/> 지파두 ReadMe
 
 ## <img width = "3%" src = "https://github.com/APPSCHOOL3-iOS/final-zipadoo/assets/102401977/6785967f-2630-4cd4-95ab-634833cd2d51"/> 프로젝트 소개
 > 친구들과 약속을 잡으면 지도상에 약속참여자의 위치를 실시간으로 보여주어 약속을 지키는 문화를 만들고자 하는 iOS앱

@@ -1,7 +1,7 @@
 # <img width = "5%" src = "https://github.com/APPSCHOOL3-iOS/final-zipadoo/assets/102401977/6785967f-2630-4cd4-95ab-634833cd2d51"/> 지파두 ReadMe
 
 ## <img width = "3%" src = "https://github.com/APPSCHOOL3-iOS/final-zipadoo/assets/102401977/6785967f-2630-4cd4-95ab-634833cd2d51"/> 프로젝트 소개
-> 누군가와 약속에 대해 꼭 약속을 지키는 문화를 만들고자 하는 앱 (현재 서비스 종료)
+> 사람들과의 약속에 대해 꼭 약속을 지키는 문화를 만들고자 하는 앱 (현재 서비스 종료)
 <p align="center">
 <img src="https://github.com/user-attachments/assets/13d0b912-8e6e-4720-a7e6-3fb9034a1904" width="19.5%"/>
 <img src="https://github.com/user-attachments/assets/c2d0f140-7fd7-4df7-a268-bd1ccef284e1" width="19.5%"/>

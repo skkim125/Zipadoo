@@ -1,7 +1,7 @@
 # <img width = "5%" src = "https://github.com/APPSCHOOL3-iOS/final-zipadoo/assets/102401977/6785967f-2630-4cd4-95ab-634833cd2d51"/> 지파두 ReadMe
 
 ## <img width = "3%" src = "https://github.com/APPSCHOOL3-iOS/final-zipadoo/assets/102401977/6785967f-2630-4cd4-95ab-634833cd2d51"/> 프로젝트 소개
-> 친구들과 약속을 잡으면 지도상에 약속참여자의 위치를 실시간으로 보여주어 약속을 지키는 문화를 만들고자 하는 iOS앱(현재 서비스 종료)
+> 누군가와 약속에 대해 꼭 약속을 지키는 문화를 만들고자 하는 앱 (현재 서비스 종료)
 <p align="center">
 <img src="https://github.com/user-attachments/assets/13d0b912-8e6e-4720-a7e6-3fb9034a1904" width="19.5%"/>
 <img src="https://github.com/user-attachments/assets/c2d0f140-7fd7-4df7-a268-bd1ccef284e1" width="19.5%"/>
@@ -22,9 +22,9 @@
 
 ## <img width = "3%" src = "https://github.com/APPSCHOOL3-iOS/final-zipadoo/assets/102401977/6785967f-2630-4cd4-95ab-634833cd2d51"/> 기술 스택
 - SwiftUI, MVVM + MVC
-- CoreLocation, MapKit, MessageUI, SafariServices, SwiftConcurrency, TipKit, UIImagePickerControllerDelegate, UIViewControllerRepresentable, UserNotification, WidgetKit, 
+- CoreLocation, MapKit, Message, SafariServices, SwiftConcurrency, TipKit, UIImagePickerControllerDelegate, UIViewControllerRepresentable, UserNotification, WidgetKit
 - Alamofire, Firebase, Lottie, SlidingTabView, SwiftLint, TossPayments
-- Singleton Pattern, Custom Modifier﹒Views
+- Custom Modifier﹒Views, Singleton Pattern
 <br>
 
 ## <img width = "3%" src = "https://github.com/APPSCHOOL3-iOS/final-zipadoo/assets/102401977/6785967f-2630-4cd4-95ab-634833cd2d51"/> 핵심 기능
@@ -161,7 +161,9 @@
 - Store과 ViewModel을 혼합한 MVVM을 구현하도록 노력하였는데, 디자인 패턴에 이해도가 부족한 상태에서 디자인 패턴을 구현하다보니 통일성 있는 코드를 작성하지 못하였던 것 같습니다. 다음 프로젝트를 진행할 때에는 진행 전 디자인 패턴에 대한 학습을 충분히 진행한 다음 명확한 규칙과 기준을 가지고 설계해나가야겠다고 느꼈습니다.
 
 ****- 새로운 기술과 최소 버전에 대한 고려****
-- 프로젝트 당시 WWDC 이후 발표되었던 WidgetKit, SwiftUI의 MapKit 등 흥미로운 프레임워크를 사용하며 흥미롭게 개발을 진행하였지만, 새로운 프레임워크에 대한 정보가 부족하여 실제 구현에 어려움을 겪었던 시간도 존재했습니다. 이후 프로젝트에서 새로운 기술을 사용하려고 할 때에는 이러한 경험을 바탕으로 신중히 고려한 이후 도입해야 함을 인지하고, 만약 도입하려고 한다면 충분한 사전 학습을 진행하여 리스크를 줄여나가야함을 느꼈습니다.
+- 프로젝트 당시 WWDC 이후 발표되었던 WidgetKit, SwiftUI의 MapKit 등 흥미로운 프레임워크를 사용하며 흥미롭게 개발을 진행하였지만, 새로운 프레임워크에 대한 정보가 부족하여 실제 구현에 어려움을 겪었던 시간도 존재했습니다.
+- 이후 프로젝트에서 새로운 기술을 사용하려고 할 때에는 이러한 경험을 바탕으로 신중히 고려한 이후 도입해야 함을 인지하고, 만약 도입하려고 한다면 충분한 사전 학습을 진행하도록 하여 개발 리스크를 줄여나가려 합니다.
+- 그리고 프로젝트 당시 iOS 17이 공개되었기 때문에 iOS 16을 사용하는 유저가 많았을 시점이었기에, 항상 프로젝트를 진행하기 전 최소 버전 지원에 대한 고려도 충분히 진행하려고 합니다.
 <br>
 
 
